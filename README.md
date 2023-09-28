@@ -22,3 +22,6 @@ Welcome to the **Blackjack Game** repository! This is a simple text-based implem
 - You can start a new game by pressing the "Start the Game" button.
  
 Have fun playing the **Blackjack Game**!  😄🃏
+Getting Started 🚀
+To run the Blackjack game on your local machine, follow these steps:
+git clone https://yostenalewis1.github.io/Blackjack/main.html
